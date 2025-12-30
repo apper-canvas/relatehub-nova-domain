@@ -1,0 +1,135 @@
+[
+  {
+    "Id": 1,
+    "contactId": 1,
+    "type": "Call",
+    "description": "Discussed Q2 expansion plans and additional license requirements",
+    "timestamp": "2024-03-20T14:22:00Z"
+  },
+  {
+    "Id": 2,
+    "contactId": 1,
+    "type": "Email",
+    "description": "Sent renewal proposal with updated pricing",
+    "timestamp": "2024-03-15T10:30:00Z"
+  },
+  {
+    "Id": 3,
+    "contactId": 1,
+    "type": "Meeting",
+    "description": "Initial kickoff meeting with stakeholders",
+    "timestamp": "2024-01-20T09:00:00Z"
+  },
+  {
+    "Id": 4,
+    "contactId": 2,
+    "type": "Call",
+    "description": "Follow-up on implementation timeline and resource allocation",
+    "timestamp": "2024-03-19T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "contactId": 2,
+    "type": "Email",
+    "description": "Shared demo video and feature documentation",
+    "timestamp": "2024-03-10T11:20:00Z"
+  },
+  {
+    "Id": 6,
+    "contactId": 3,
+    "type": "Meeting",
+    "description": "Contract negotiation session with legal team",
+    "timestamp": "2024-03-21T10:30:00Z"
+  },
+  {
+    "Id": 7,
+    "contactId": 3,
+    "type": "Call",
+    "description": "Clarified support terms and SLA requirements",
+    "timestamp": "2024-03-18T14:15:00Z"
+  },
+  {
+    "Id": 8,
+    "contactId": 4,
+    "type": "Email",
+    "description": "Sent initial discovery questionnaire",
+    "timestamp": "2024-03-18T09:15:00Z"
+  },
+  {
+    "Id": 9,
+    "contactId": 4,
+    "type": "Call",
+    "description": "Discovery call to understand business needs",
+    "timestamp": "2024-03-05T13:30:00Z"
+  },
+  {
+    "Id": 10,
+    "contactId": 6,
+    "type": "Meeting",
+    "description": "Project completion review and feedback session",
+    "timestamp": "2024-03-22T11:20:00Z"
+  },
+  {
+    "Id": 11,
+    "contactId": 6,
+    "type": "Email",
+    "description": "Delivered final integration documentation",
+    "timestamp": "2024-03-10T16:20:00Z"
+  },
+  {
+    "Id": 12,
+    "contactId": 7,
+    "type": "Call",
+    "description": "Initial outreach to discuss cloud migration needs",
+    "timestamp": "2024-03-20T13:45:00Z"
+  },
+  {
+    "Id": 13,
+    "contactId": 7,
+    "type": "Email",
+    "description": "Sent company overview and case studies",
+    "timestamp": "2024-03-12T10:00:00Z"
+  },
+  {
+    "Id": 14,
+    "contactId": 8,
+    "type": "Meeting",
+    "description": "Requirements gathering workshop",
+    "timestamp": "2024-03-19T08:50:00Z"
+  },
+  {
+    "Id": 15,
+    "contactId": 8,
+    "type": "Email",
+    "description": "Shared analytics platform demo access",
+    "timestamp": "2024-03-01T15:30:00Z"
+  },
+  {
+    "Id": 16,
+    "contactId": 9,
+    "type": "Call",
+    "description": "Quarterly business review and roadmap discussion",
+    "timestamp": "2024-03-21T14:10:00Z"
+  },
+  {
+    "Id": 17,
+    "contactId": 9,
+    "type": "Meeting",
+    "description": "Security audit kickoff meeting",
+    "timestamp": "2024-02-15T10:00:00Z"
+  },
+  {
+    "Id": 18,
+    "contactId": 10,
+    "type": "Email",
+    "description": "Proposal for mobile app development project",
+    "timestamp": "2024-03-22T16:00:00Z"
+  },
+  {
+    "Id": 19,
+    "contactId": 10,
+    "type": "Call",
+    "description": "Initial consultation on mobile strategy",
+    "timestamp": "2024-03-15T11:45:00Z"
+  }
+]

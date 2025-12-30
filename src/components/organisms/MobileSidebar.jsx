@@ -5,7 +5,8 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const MobileSidebar = ({ isOpen, onClose }) => {
   const navigation = [
-    { name: "Contacts", path: "", icon: "Users" },
+{ name: "Contacts", path: "", icon: "Users" },
+    { name: "Deals", path: "deals", icon: "DollarSign" },
     { name: "Pipeline", path: "pipeline", icon: "BarChart3" },
     { name: "Activity", path: "activity", icon: "Activity" }
   ];

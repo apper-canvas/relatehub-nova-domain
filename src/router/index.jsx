@@ -3,6 +3,7 @@ import { lazy, Suspense } from "react";
 import Layout from "@/components/organisms/Layout";
 
 const Contacts = lazy(() => import("@/components/pages/Contacts"));
+const Companies = lazy(() => import("@/components/pages/Companies"));
 const Deals = lazy(() => import("@/components/pages/Deals"));
 const Pipeline = lazy(() => import("@/components/pages/Pipeline"));
 const Activity = lazy(() => import("@/components/pages/Activity"));
@@ -27,9 +28,17 @@ const mainRoutes = [
       <Suspense fallback={<LoadingFallback />}>
         <Contacts />
       </Suspense>
+)
+  },
+  {
+    path: "companies",
+    element: (
+      <Suspense fallback={<LoadingFallback />}>
+        <Companies />
+      </Suspense>
     )
   },
-{
+  {
     path: "deals",
     element: (
       <Suspense fallback={<LoadingFallback />}>

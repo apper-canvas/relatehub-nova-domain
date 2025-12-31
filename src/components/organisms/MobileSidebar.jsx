@@ -4,8 +4,9 @@ import { cn } from "@/utils/cn";
 import { motion, AnimatePresence } from "framer-motion";
 
 const MobileSidebar = ({ isOpen, onClose }) => {
-  const navigation = [
-{ name: "Contacts", path: "", icon: "Users" },
+const navigation = [
+    { name: "Contacts", path: "", icon: "Users" },
+    { name: "Companies", path: "companies", icon: "Building" },
     { name: "Deals", path: "deals", icon: "DollarSign" },
     { name: "Pipeline", path: "pipeline", icon: "BarChart3" },
     { name: "Activity", path: "activity", icon: "Activity" }

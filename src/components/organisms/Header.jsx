@@ -15,11 +15,11 @@ const Header = ({ title, onSearch, showNewButton, onNewClick, newButtonLabel = "
             <ApperIcon name="Menu" size={24} />
           </button>
           
-          <div className="lg:hidden flex items-center gap-2">
+<div className="lg:hidden flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-blue-700 rounded-lg flex items-center justify-center">
               <ApperIcon name="Users" size={18} className="text-white" />
             </div>
-            <span className="font-bold text-lg text-gray-900">RelateHub</span>
+            <span className="font-bold text-lg text-gray-900">CRMFlow</span>
           </div>
           
           <h1 className="hidden lg:block text-2xl font-bold text-gray-900">{title}</h1>
